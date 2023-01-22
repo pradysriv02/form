@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.container{
+    position: absolute;
+    top: 10%;
+    max-width: 500px;
+    background-color: rgb(226, 222, 222);
+    border-radius: 5px;
+    height: 600px;
+}
+img{
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
